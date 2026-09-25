@@ -1,0 +1,10 @@
+{
+  "name": "githubleelee-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pi skills for planning, task decomposition, and execution",
+  "license": "MIT",
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
